@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Auralis",
+      "hasCanvas": true,
+      "bodyTextLen": 159,
+      "bodyTextHash": "95a40af053b91f51fbc1fb0d1ee335ee0929d5585426d2a2658dc1767047596f",
+      "bodyTextPrefix": "AURALIS See the sound A quiet visualizer for your microphone or ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Auralis",
+      "hasCanvas": true,
+      "bodyTextLen": 171,
+      "bodyTextHash": "1dcb2e48df9dff240fc96ff39d8ea5256d05cfe19eea5dd13da98c325d265b4f",
+      "bodyTextPrefix": "AURALIS See the sound A quiet visualizer for your microphone or ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
